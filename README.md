@@ -10,7 +10,9 @@ Full Gist archive (76+ frameworks): [ChaosGod208 Gists](https://gist.github.com/
 
 ## 🎮 Game Balance (Searchable Formulas)
 
-1. **[Relative Defense Formula](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/relative_defense_formula_md)**
+1. **Relative Defense Formula**  
+`DR = defense/enemy_dmg`  
+**[Full System →](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/relative_defense_formula_md)**  
    Core relative defense scaling law — fixes late-game power creep and imbalance across genres.
 
 2. **[Armor Layering](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/armor_layer_formula_htp.md)**
