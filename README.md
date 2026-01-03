@@ -24,7 +24,7 @@ Full Gist archive (76+ frameworks): [ChaosGod208 Gists](https://gist.github.com/
 4. **[Rollback Immortality](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/rollback-immortality-framework-HTP.md)**  
    Rollback-based immortality blueprint — ensures continuity of self without copy-loss issues.
 
-5. **[Continuity Resurrection](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/main/continuity-resurrection.md)**  
+5. **[Continuity Resurrection](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/HTP-Continuity-Resurrection-Framework-v1.md)**  
    True continuity resurrection — preserves identity and relational bonds, no "clone" dystopia.
 
 6. **[Consciousness-extraction](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/consciousness_extraction_afterlife_transition_architecture.md)**  
@@ -43,7 +43,7 @@ Full Gist archive (76+ frameworks): [ChaosGod208 Gists](https://gist.github.com/
 
 ## 🚀 Real-Life Systems
 
-10. **[Real Life RPG](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/HTP_RealLife_RPG_System.md)**
+10. **[Real Life RPG](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/HTP_RealLife_RPG_System_md)**
    Real-life RPG gamification system — turns daily life into progression loop with stats, quests, and meaningful dopamine
 
 11. **[Dopamine-mechanics-real-life-rpg-integration](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/HTP_Dopamine_Mechanics_Framework_v1.md)**  
