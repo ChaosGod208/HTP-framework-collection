@@ -42,7 +42,7 @@ Full Gist archive (76+ frameworks): [ChaosGod208 Gists](https://gist.github.com/
 8. **[Reflective Love Codex](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/htp-reflective-love-codex-v1.md)**
    Reflective love architecture — sustainable multi-partner dynamics with mutual evolution and no deception.
 
-9. **[Anticipation-stress-dopamine-mechanics](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/HTP_Anticipation_Stress_Framework_v1.md)**  
+9. **[Anticipation Stress](https://raw.githubusercontent.com/ChaosGod208/HTP-framework-collection/refs/heads/main/HTP_Anticipation_Stress_Framework_v1.md)**  
     Mechanics to manage anticipation stress and dopamine in real-life and virtual progression systems.
 
 ## 🚀 Real-Life Systems
